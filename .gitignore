@@ -11,6 +11,7 @@
 .svn/
 .swiftpm/
 migrate_working_dir/
+lib/core/config/secret_keys.dart
 
 # IntelliJ related
 *.iml
